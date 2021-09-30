@@ -16,3 +16,13 @@ int main()
     fun1(x);
     return 0;
 }
+/*
+OUTPUT:
+7
+6
+5
+4
+3
+2
+1
+*/
